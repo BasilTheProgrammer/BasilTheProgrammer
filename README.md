@@ -1,7 +1,5 @@
-- Hi! I'm BasilTheProgrammer
-- I am learning Python and maybe some Lua later!
-How to reach me:
-I am mainly on Github and StackOverflow!
+Hi!
+Currently learning Python!
 
 <!---
 BasilTheProgrammer/BasilTheProgrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
